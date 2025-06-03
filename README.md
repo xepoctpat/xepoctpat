@@ -1,23 +1,35 @@
 # 👋 Hi, I'm Jovan
+
 ## Architecting Adaptive AI & Intelligent Simulations
 
-I'm passionate about **generative AI**, **modular system design**, and **real-world data integration** in advanced simulation environments. My work focuses on **recursive adaptability**, **procedural intelligence**, and **agent-driven modeling**, crafting systems that learn, evolve, and reshape dynamically.
+I'm passionate about **generative AI**, **modular system design**, and
+**real-world data integration** in advanced simulation environments.
+My work focuses on **recursive adaptability**, **procedural intelligence**,
+and **agent-driven modeling**, crafting systems that learn, evolve, and reshape
+dynamically.
 
 ---
 
 ## 🧠 AI-Powered Projects
 
-- **🌀 H3X Engine** → **Adaptive simulation platform** integrating **real-world ecological data** (`pygbif`, OpenStreetMap) to create dynamically evolving environments.
-- **🤖 Ego-Driven AI Scenarios** → **Self-adapting procedural generation**, leveraging **recursive feedback loops** for immersive, real-world applications.
-- **📊 AI-Enhanced Visualization Dashboards** → **Real-time metric tracking** with **npm-driven interfaces**, bridging generative AI with dynamic user interactions.
-- **🔐 Modular AI Security Frameworks** → Architecting **sandboxed AI environments**, ensuring safe, scalable adaptability.
+- **🌀 H3X Engine** → **Adaptive simulation platform** integrating
+  **real-world ecological data** (`pygbif`, OpenStreetMap)
+  to create dynamically evolving environments.
+- **🤖 Ego-Driven AI Scenarios** → **Self-adapting procedural generation**,
+  leveraging **recursive feedback loops** for immersive, real-world applications.
+- **📊 AI-Enhanced Visualization Dashboards** → **Real-time metric tracking** with
+  **npm-driven interfaces**, bridging generative AI with dynamic user interactions.
+- **🔐 Modular AI Security Frameworks** → Architecting **sandboxed AI environments**,
+  ensuring safe, scalable adaptability.
 
 ---
 
 ## ⚙️ Tech & Specialties
 
-- **AI & Computational Systems** → Reinforcement Learning, Recursive Adaptation, Multi-Agent Simulation
-- **Generative Intelligence** → Synthetic data modeling, Ego-driven scenarios, Cognitive feedback loops
+- **AI & Computational Systems** → Reinforcement Learning, Recursive Adaptation,
+  Multi-Agent Simulation
+- **Generative Intelligence** → Synthetic data modeling, Ego-driven scenarios,
+  Cognitive feedback loops
 - **Visualization & Interfaces** → WebGL, Three.js, Data-rich Dashboards
 - **Data & Automation** → OpenStreetMap, GBIF, Dynamic API pipelines
 
@@ -31,7 +43,8 @@ I'm passionate about **generative AI**, **modular system design**, and **real-wo
 
 **Active Automations:**
 
-- **Automated Dependency Updates:** Security patches and library upgrades via Dependabot.
+- **Automated Dependency Updates:** Security patches and library upgrades via
+  Dependabot.
 - **Code Scanning:** Regular CodeQL analysis for vulnerabilities.
 - **Dynamic Profile Updates:** Automated README refresh with latest activity.
 
@@ -42,22 +55,33 @@ I'm passionate about **generative AI**, **modular system design**, and **real-wo
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- The GitHub Action will automatically update this section with your recent activity -->
+<!--
+The GitHub Action will automatically update this section with your
+recent activity
+-->
 <!--END_SECTION:activity-->
+
+---
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xepoctpat&layout=compact)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xepoctpat&show_icons=true&theme=default)
 
 ---
 
 ## 🚀 Future Explorations
 
-I'm exploring new frontiers in **self-learning AI frameworks**, **cybernetic hauntology**, and the **philosophy of adaptive intelligence**.
+I'm exploring new frontiers in **self-learning AI frameworks**,
+**cybernetic hauntology**, and the **philosophy of adaptive intelligence**.
 
-Beyond technical precision, I strive to create **intuitive, transparent, and human-centric AI environments**.
+Beyond technical precision, I strive to create **intuitive, transparent, and
+human-centric AI environments**.
 
----
-
-## 📬 Connect with Me
-- [LinkedIn](https://linkedin.com/in/jovan)
-- [Personal Website](https://jovan.dev)
-- [GitHub](https://github.com/xepoctpat)
-
-Let's shape **AI-driven ecosystems** that are dynamic, responsive, and deeply interconnected with the real world! 🚀
+Let's shape **AI-driven ecosystems** that are dynamic, responsive, and deeply
+interconnected with the real world! 🚀
